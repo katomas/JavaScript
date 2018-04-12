@@ -1,0 +1,21 @@
+.wrapperKey {
+	background-color: #088A85;
+	width: 500px;
+	border-color: #3B0B2E;
+	border-width: 2px;
+}
+
+.row {
+	display: flex;
+	justify-content: center;
+}
+
+.keyButton {
+	height: 30px;
+	width: 30px;
+	margin: 2px;
+	border-radius: 7px;
+	background-color: #A9F5E1;
+	border-color: #3B0B2E;
+	border-width: 2px;
+}
